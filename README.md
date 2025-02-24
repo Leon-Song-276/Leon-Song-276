@@ -1,8 +1,6 @@
-## Hi there 👋
+## Leon's Resume
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Racket Programming Language
-- 💬 Ask me about internships
-- 📫 How to reach me: leon.y.song1@gmail.com
--->
+## Education
+** Westview High School 2020-2024
+** Northeastern University **, Khoury College of Computer Sciences
+Bachelor of Science in Computer Science and Mathematics
